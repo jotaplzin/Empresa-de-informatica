@@ -1,4 +1,4 @@
-package com.pbe.Empresa.de.Tecnologia;
+package com.pbe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
