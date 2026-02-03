@@ -96,8 +96,5 @@ public class Pessoa {
     }
 
     public void setRa(String ra) {
-        this.ra = ra;
-    }
-
-
+        this.ra = 
 }
